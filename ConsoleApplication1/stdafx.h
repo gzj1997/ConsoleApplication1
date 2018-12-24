@@ -10,6 +10,7 @@
 #include <stdio.h>
 #include <tchar.h>
 
-
+#include"camera.h"
+#include"test.h"
 
 // TODO:  在此处引用程序需要的其他头文件
